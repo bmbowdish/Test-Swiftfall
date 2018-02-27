@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Swiftfall",
+        "repositoryURL": "https://github.com/bmbowdish/Swiftfall.git",
+        "state": {
+          "branch": null,
+          "revision": "63cfb91f4cca16a54712f9b5826608188c474656",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
